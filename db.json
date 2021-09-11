@@ -1,4 +1,9 @@
 {
+  "puts": [
+    { "id": 1, "title": "Put 1" },
+    { "id": 2, "title": "Put 2" },
+    { "id": 3, "title": "Put 3" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
